@@ -56,7 +56,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Wednesday 12/9** - Merge and Merge Conflicts
 - **Thursday 12/10** - Wait I screwed something up and need to roll back!
 - **Friday 12/11** - Rebase with Rob Nelson
-- **Monday 12/14** - 
+- **Monday 12/14** - The art of the ignore: Using .gitignore with Eric Wright
 - **Tuesday 12/15** - 
 - **Wednesday 12/16** - 
 - **Thursday 12/17** - 
