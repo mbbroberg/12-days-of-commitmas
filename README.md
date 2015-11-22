@@ -5,7 +5,13 @@
 
 The first year of Commitmas is officially complete. I'm incredibly thankful for the contribution of so many that made this fun idea a success. Here are some highlights:
 
-*
+* [@mjbrender & @chriswahl discussing Commitmas (Video)](https://www.youtube.com/watch?v=7JQOAoAvsDU)
+* [Git knowledge on Neckbaerd Influence](http://neckbeardinfluence.com/?s=git)
+* [Jonathan Frappier on Forks, Slack & GitHub](http://www.virtxpert.com/category/home/training/commitmas/)
+* [Many posts from Rob Nelson](http://rnelson0.com)
+* [Brandon Willmott's post](https://bdwill.wordpress.com/2014/12/20/rockin-around-the-commitmas-tree/)
+* [Josh Coen's post](http://www.valcolabs.com/2014/12/20/a-commitmas-miracle/)
+* [Tim Jabaut's post](http://www.vmcutlip.com/2014/12/12-days-of-commitmas/)
 
 Have an idea for Commitmas 2015? Check out the awesome work of [Jonathan](https://twitter.com/jfrappier) and [Rob](https://twitter.com/rnelson0) on [30 Days of Commitmas](https://github.com/commitmas/30-days-of-commitmas-2015).
 
