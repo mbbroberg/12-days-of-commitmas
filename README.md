@@ -1,21 +1,22 @@
 12 Days of Commitmas (2014)
 ===========================
--- 
+--
 # Thank You!
 
-The first year of Commitmas is officially complete. I'm incredibly thankful for the contribution of so many that made this fun idea a success. 
+The first year of Commitmas is officially complete. I'm incredibly thankful for the contribution of so many that made this fun idea a success. Here are some highlights:
 
-*TODO* - Add follow up blog post links to here.
+*
 
-Have an idea for Commitmas 2015? Pull Requests are welcome on the **develop** branch! 
+Have an idea for Commitmas 2015? Check out the awesome work of [Jonathan](https://twitter.com/jfrappier) and [Rob](https://twitter.com/rnelson0) on [30 Days of Commitmas](https://github.com/commitmas/30-days-of-commitmas-2015).
+
 ![Holiday octocat](octocat/holiday-octocat.png)
 
 
 #### Table of Contents
 
 1. [Overview](#overview)
-2. [The Challenge](#the challenge)
-3. [Commit to Your Skill Level](#commit to your skill level)
+2. [The Challenge](#the-challenge)
+3. [Commit to Your Skill Level](#commit-to-your-skill-level)
     * [Beginner](#beginner)
     * [Intermediate](#Intermediate)
     * [Expert](#expert)
@@ -26,11 +27,12 @@ Have an idea for Commitmas 2015? Pull Requests are welcome on the **develop** br
 
 Tis the holiday season again, where we relax at home, eat loads of good food and spin driedels. This year, **let's keep learning** all the great stuff learned during the [vBrownBag DevOps sessions](http://professionalvmware.com/vbrownbag-devops-series/).
 
+Recordings, as always, are available [on YouTube](https://www.youtube.com/channel/UCaZf13iWhwnBdpIkrEmHLbA) and [iTunes](https://itunes.apple.com/us/podcast/professionalvmware-vbrownbag/id468638808?mt=2)
 
-The Challenge
-=============
 
-Push yourself to use GitHub everyday throughout the holiday season so that by 2015 you're ready to share your next project. Here's how: 
+## The Challenge
+
+Push yourself to use GitHub everyday throughout the holiday season so that by 2015 you're ready to share your next project. Here's how:
 
 1. Schedule time in your calendar for gitting in shape **every day** for the 12 days between December 21st - January 1st
 2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), [Advanced](#advanced), or [Expert](#expert)
@@ -47,12 +49,11 @@ If you want more dynamic interaction, join our Slack team! You can get help or c
 4. Start collaborating!
 
 
-Commit to Your Skill Level
-==========================
-We all have different level of expertise when it comes to GitHub. 
+## Commit to Your Skill Level
+We all have different level of expertise when it comes to GitHub.
 
 
-##Beginner
+## Beginner
 <a name="beginner"></a>
 *You're a beginner if:* You're new enough to git that just the act of using it daily will be a lot of learning.
 
@@ -76,9 +77,9 @@ We all have different level of expertise when it comes to GitHub.
 * Markdown is awesomely powerful, so challenge yourself to use some of the more complex syntax. [You can learn it all here.](http://daringfireball.net/projects/markdown/syntax)
 
 
-##Intermediate
+## Intermediate
 <a name="intermediate"></a>
-*You're at an intermediate level if:* You're comfortable with the basics of using git, have lurked around on GitHub but never contributed to a project. 
+*You're at an intermediate level if:* You're comfortable with the basics of using git, have lurked around on GitHub but never contributed to a project.
 
 **Setup**:
 * Fork an interesting repository that you want to contribute to
@@ -95,7 +96,7 @@ We all have different level of expertise when it comes to GitHub.
 **Helpful hints**:
 * Remember, *documentation is code too (especially when using Markdown)!* Find a project you want to support by improving documentation. Fork it and then make your contributions during this challenge.
 
-##Expert
+## Expert
 <a name="expert"></a>
 *You're an expert if:* You've managed multiple contributor repositories before, have more than 5 pull request accepted, and want to join in Commitmas to really push yourself.
 
@@ -109,11 +110,8 @@ We all have different level of expertise when it comes to GitHub.
 **Helpful hints**:
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
 
-#Resources
-<a name="resources"></a>
 
-Projects
-========
+## Projects
 <a name="projects"></a>
 
 These projects are soliciting pull requests through Commitmas. If you'd like to
@@ -123,5 +121,4 @@ projects interest you.
 * [rnelson0's powercli-modules](https://github.com/rnelson0/powercli-modules) - PowerShell/PowerCLI modules for vSphere administration.
 * [pyvmomi community examples](https://github.com/vmware/pyvmomi-community-samples) - Python library for vSphere API.
 * [Couch to OpenStack](https://github.com/bunchc/Couch_to_OpenStack) - a Vagrant powered OpenStack environment thanks to your friends at vBrownBag.
-
-* [mcowger's Python CloudFoundry](https://github.com/mcowger/python-cloudfoundry) - a python module for controlling cloudfoundry v2
+* [mcowger's Python CloudFoundry](https://github.com/mcowger/python-cloudfoundry) - a python module for controlling CloudFoundry v2.
